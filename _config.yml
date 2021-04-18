@@ -1,5 +1,5 @@
 lang:                  en
-title:                 Hydejack
+title:                 KD
 copyright:             © 2021. All rights reserved.
 
 accent_image:          /assets/img/sidebar-bg.jpg
@@ -19,11 +19,11 @@ hydejack:
   no_push_state:       false
   no_drawer:           false
   no_navbar:           false
-  no_search:           false
+  no_search:           true
   no_inline_css:       false
   no_page_style:       false
   no_break_layout:     true
-  no_toc:              false
+  no_toc:              true
   no_third_column:     false
   no_large_headings:   false
   no_structured_data:  false
@@ -33,11 +33,11 @@ hydejack:
   use_lsi:             true
   cookies_banner:      true
   advertise:           true
-  hide_dates:          false
-  hide_last_modified:  false
+  hide_dates:          true
+  hide_last_modified:  true
 
   dark_mode:
-    always:            false
+    always:            true
     dynamic:           true
     sunrise:           6
     sunset:            18
